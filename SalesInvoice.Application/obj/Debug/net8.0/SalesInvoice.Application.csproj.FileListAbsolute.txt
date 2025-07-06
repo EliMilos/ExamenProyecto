@@ -1,0 +1,72 @@
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Application.deps.json
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Application.dll
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Application.pdb
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Domain.dll
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Infrastructure.dll
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Domain.pdb
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Infrastructure.pdb
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.csproj.AssemblyReference.cache
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.AssemblyInfoInputs.cache
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.AssemblyInfo.cs
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.csproj.CoreCompileInputs.cache
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.sourcelink.json
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInv.BC144EAD.Up2Date
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.dll
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\refint\SalesInvoice.Application.dll
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.pdb
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\ref\SalesInvoice.Application.dll
+C:\Users\sebas\Desktop\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Application.deps.json
+C:\Users\sebas\Desktop\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Application.dll
+C:\Users\sebas\Desktop\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Application.pdb
+C:\Users\sebas\Desktop\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Domain.dll
+C:\Users\sebas\Desktop\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Infrastructure.dll
+C:\Users\sebas\Desktop\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Domain.pdb
+C:\Users\sebas\Desktop\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Infrastructure.pdb
+C:\Users\sebas\Desktop\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.csproj.AssemblyReference.cache
+C:\Users\sebas\Desktop\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Desktop\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.AssemblyInfoInputs.cache
+C:\Users\sebas\Desktop\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.AssemblyInfo.cs
+C:\Users\sebas\Desktop\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.sourcelink.json
+C:\Users\sebas\Desktop\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInv.BC144EAD.Up2Date
+C:\Users\sebas\Desktop\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.dll
+C:\Users\sebas\Desktop\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\refint\SalesInvoice.Application.dll
+C:\Users\sebas\Desktop\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.pdb
+C:\Users\sebas\Desktop\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\ref\SalesInvoice.Application.dll
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Application.deps.json
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Application.dll
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Application.pdb
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Domain.dll
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Infrastructure.dll
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Domain.pdb
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Infrastructure.pdb
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.csproj.AssemblyReference.cache
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.AssemblyInfoInputs.cache
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.AssemblyInfo.cs
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.csproj.CoreCompileInputs.cache
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.sourcelink.json
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInv.BC144EAD.Up2Date
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.dll
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\refint\SalesInvoice.Application.dll
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.pdb
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\ref\SalesInvoice.Application.dll
+C:\Users\elian\Desktop\UTA\ProyectoSegundoParcial\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Application.deps.json
+C:\Users\elian\Desktop\UTA\ProyectoSegundoParcial\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Application.dll
+C:\Users\elian\Desktop\UTA\ProyectoSegundoParcial\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Application.pdb
+C:\Users\elian\Desktop\UTA\ProyectoSegundoParcial\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Domain.dll
+C:\Users\elian\Desktop\UTA\ProyectoSegundoParcial\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Infrastructure.dll
+C:\Users\elian\Desktop\UTA\ProyectoSegundoParcial\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Domain.pdb
+C:\Users\elian\Desktop\UTA\ProyectoSegundoParcial\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\bin\Debug\net8.0\SalesInvoice.Infrastructure.pdb
+C:\Users\elian\Desktop\UTA\ProyectoSegundoParcial\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.csproj.AssemblyReference.cache
+C:\Users\elian\Desktop\UTA\ProyectoSegundoParcial\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\Desktop\UTA\ProyectoSegundoParcial\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.AssemblyInfoInputs.cache
+C:\Users\elian\Desktop\UTA\ProyectoSegundoParcial\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.AssemblyInfo.cs
+C:\Users\elian\Desktop\UTA\ProyectoSegundoParcial\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.csproj.CoreCompileInputs.cache
+C:\Users\elian\Desktop\UTA\ProyectoSegundoParcial\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.sourcelink.json
+C:\Users\elian\Desktop\UTA\ProyectoSegundoParcial\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInv.BC144EAD.Up2Date
+C:\Users\elian\Desktop\UTA\ProyectoSegundoParcial\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.dll
+C:\Users\elian\Desktop\UTA\ProyectoSegundoParcial\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\refint\SalesInvoice.Application.dll
+C:\Users\elian\Desktop\UTA\ProyectoSegundoParcial\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\SalesInvoice.Application.pdb
+C:\Users\elian\Desktop\UTA\ProyectoSegundoParcial\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Application\obj\Debug\net8.0\ref\SalesInvoice.Application.dll

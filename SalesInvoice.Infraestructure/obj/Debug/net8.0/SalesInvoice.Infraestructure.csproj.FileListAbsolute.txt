@@ -1,0 +1,17 @@
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Infraestructure\bin\Debug\net8.0\SalesInvoice.Infraestructure.deps.json
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Infraestructure\bin\Debug\net8.0\SalesInvoice.Infraestructure.runtimeconfig.json
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Infraestructure\bin\Debug\net8.0\SalesInvoice.Infraestructure.dll
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Infraestructure\bin\Debug\net8.0\SalesInvoice.Infraestructure.pdb
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Infraestructure\bin\Debug\net8.0\SalesInvoice.Domain.dll
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Infraestructure\bin\Debug\net8.0\SalesInvoice.Domain.pdb
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Infraestructure\obj\Debug\net8.0\SalesInvoice.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Infraestructure\obj\Debug\net8.0\SalesInvoice.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Infraestructure\obj\Debug\net8.0\SalesInvoice.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Infraestructure\obj\Debug\net8.0\SalesInvoice.Infraestructure.AssemblyInfo.cs
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Infraestructure\obj\Debug\net8.0\SalesInvoice.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Infraestructure\obj\Debug\net8.0\SalesInv.A87680B6.Up2Date
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Infraestructure\obj\Debug\net8.0\SalesInvoice.Infraestructure.dll
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Infraestructure\obj\Debug\net8.0\refint\SalesInvoice.Infraestructure.dll
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Infraestructure\obj\Debug\net8.0\SalesInvoice.Infraestructure.pdb
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Infraestructure\obj\Debug\net8.0\SalesInvoice.Infraestructure.genruntimeconfig.cache
+C:\Users\BAR KARAOKE\Desktop\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Infraestructure\obj\Debug\net8.0\ref\SalesInvoice.Infraestructure.dll

@@ -1,0 +1,12 @@
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Domain\bin\Release\net8.0\SalesInvoice.Domain.deps.json
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Domain\bin\Release\net8.0\SalesInvoice.Domain.dll
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Domain\bin\Release\net8.0\SalesInvoice.Domain.pdb
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Domain\obj\Release\net8.0\SalesInvoice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Domain\obj\Release\net8.0\SalesInvoice.Domain.AssemblyInfoInputs.cache
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Domain\obj\Release\net8.0\SalesInvoice.Domain.AssemblyInfo.cs
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Domain\obj\Release\net8.0\SalesInvoice.Domain.csproj.CoreCompileInputs.cache
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Domain\obj\Release\net8.0\SalesInvoice.Domain.sourcelink.json
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Domain\obj\Release\net8.0\SalesInvoice.Domain.dll
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Domain\obj\Release\net8.0\refint\SalesInvoice.Domain.dll
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Domain\obj\Release\net8.0\SalesInvoice.Domain.pdb
+C:\Users\BAR KARAOKE\Downloads\PROYECTO\PROYECTO\ProyectoFinal_TDW\SalesInvoiceSolution\SalesInvoice.Domain\obj\Release\net8.0\ref\SalesInvoice.Domain.dll

@@ -15,7 +15,7 @@ using SalesInvoice.IOC;
 using System.Text;
 using System.Text.Json;
 
-
+//Commit Prueba exitosa
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
