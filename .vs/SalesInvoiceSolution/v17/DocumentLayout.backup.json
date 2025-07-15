@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\elian\\Desktop\\UTA\\ProyectoSegundoParcial\\ProyectoFinal_TDW\\SalesInvoiceSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DF1F0258-A872-4FFB-AD5C-7E9FD4ED18A7}|SalesInvoice.Application\\SalesInvoice.Application.csproj|c:\\users\\elian\\desktop\\uta\\proyectosegundoparcial\\proyectofinal_tdw\\salesinvoicesolution\\salesinvoice.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F0258-A872-4FFB-AD5C-7E9FD4ED18A7}|SalesInvoice.Application\\SalesInvoice.Application.csproj|solutionrelative:salesinvoice.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2FAE7AA1-6BFE-4CB2-A3B7-22AEDC3C0865}|SalesInvoice.API\\SalesInvoice.API.csproj|c:\\users\\elian\\desktop\\uta\\proyectosegundoparcial\\proyectofinal_tdw\\salesinvoicesolution\\salesinvoice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FAE7AA1-6BFE-4CB2-A3B7-22AEDC3C0865}|SalesInvoice.API\\SalesInvoice.API.csproj|solutionrelative:salesinvoice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAE7AA1-6BFE-4CB2-A3B7-22AEDC3C0865}|SalesInvoice.API\\SalesInvoice.API.csproj|c:\\users\\elian\\desktop\\uta\\proyectosegundoparcial\\proyectofinal_tdw\\salesinvoicesolution\\salesinvoice.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAE7AA1-6BFE-4CB2-A3B7-22AEDC3C0865}|SalesInvoice.API\\SalesInvoice.API.csproj|solutionrelative:salesinvoice.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +22,50 @@
       "DocumentGroups": [
         {
           "DockedHeight": 348,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\elian\\Desktop\\UTA\\ProyectoSegundoParcial\\ProyectoFinal_TDW\\SalesInvoiceSolution\\SalesInvoice.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "SalesInvoice.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\elian\\Desktop\\UTA\\ProyectoSegundoParcial\\ProyectoFinal_TDW\\SalesInvoiceSolution\\SalesInvoice.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "SalesInvoice.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAuwPgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:25:00.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\elian\\Desktop\\UTA\\ProyectoSegundoParcial\\ProyectoFinal_TDW\\SalesInvoiceSolution\\SalesInvoice.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SalesInvoice.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\elian\\Desktop\\UTA\\ProyectoSegundoParcial\\ProyectoFinal_TDW\\SalesInvoiceSolution\\SalesInvoice.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SalesInvoice.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAwwGsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T16:07:51.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elian\\Desktop\\UTA\\ProyectoSegundoParcial\\ProyectoFinal_TDW\\SalesInvoiceSolution\\SalesInvoice.API\\Program.cs",
               "RelativeDocumentMoniker": "SalesInvoice.API\\Program.cs",
               "ToolTip": "C:\\Users\\elian\\Desktop\\UTA\\ProyectoSegundoParcial\\ProyectoFinal_TDW\\SalesInvoiceSolution\\SalesInvoice.API\\Program.cs",
               "RelativeToolTip": "SalesInvoice.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAALMAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-06T20:30:53.955Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

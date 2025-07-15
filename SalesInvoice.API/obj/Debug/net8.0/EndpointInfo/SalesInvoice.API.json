@@ -949,6 +949,10 @@
           "role": {
             "type": "string",
             "nullable": true
+          },
+          "newPassword": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

@@ -199,54 +199,86 @@ namespace SalesInvoice.Application.Services
         }
 
 
-        public async Task<(bool Success, string Message)> UpdateUserAsync(string userId, string email, string cedula, string concurrencyStamp, string role)
+        public async Task<(bool Success, string Message, string ConcurrencyStamp)> UpdateUserAsync(
+    string userId,
+    string email,
+    string cedula,
+    string concurrencyStamp,
+    string role,
+    string newPassword)
         {
             var user = await _userManager.FindByIdAsync(userId);
             if (user == null)
-                return (false, "Usuario no encontrado.");
+                return (false, "Usuario no encontrado.", null);
 
             if (user.ConcurrencyStamp != concurrencyStamp)
-                return (false, "Los datos fueron modificados por otro administrador. Actualice la información y vuelva a intentar.");
+                return (false, "Los datos fueron modificados por otro administrador. Actualice la información y vuelva a intentar.", null);
 
             var existingUserByEmail = await _userManager.FindByEmailAsync(email);
             if (existingUserByEmail != null && existingUserByEmail.Id != userId)
-                return (false, "El correo ya está en uso por otro usuario.");
+                return (false, "El correo ya está en uso por otro usuario.", null);
 
-            var existingUserByCedula = await _userManager.Users.FirstOrDefaultAsync(u => u.Cedula == cedula && u.Id != userId);
+            var existingUserByCedula = await _userManager.Users
+                .FirstOrDefaultAsync(u => u.Cedula == cedula && u.Id != userId);
+
             if (existingUserByCedula != null)
-                return (false, "La cédula ya está registrada en otro usuario.");
+                return (false, "La cédula ya está registrada en otro usuario.", null);
 
             user.Email = email;
             user.UserName = email;
             user.Cedula = cedula;
 
-            // Actualizar rol: quitar todos los roles actuales y asignar el nuevo
+            // Cambiar rol si es necesario
             var currentRoles = await _userManager.GetRolesAsync(user);
-            var removeResult = await _userManager.RemoveFromRolesAsync(user, currentRoles);
-            if (!removeResult.Succeeded)
-                return (false, "Error al quitar roles anteriores.");
+            if (!currentRoles.Contains(role))
+            {
+                await _userManager.RemoveFromRolesAsync(user, currentRoles);
+                await _userManager.AddToRoleAsync(user, role);
+            }
 
-            var addRoleResult = await _userManager.AddToRoleAsync(user, role);
-            if (!addRoleResult.Succeeded)
-                return (false, "Error al asignar nuevo rol.");
-
-            // Actualizar LockoutEnabled según rol
+            // Ajustar bloqueo según rol
             if (role == "Admin")
             {
                 user.LockoutEnabled = false;
-                user.AccessFailedCount = 0; // Opcional: resetear contador
+                user.AccessFailedCount = 0;
             }
             else
             {
                 user.LockoutEnabled = true;
             }
 
+            // Validar que la nueva contraseña no sea igual a la anterior
+            if (!string.IsNullOrEmpty(newPassword))
+            {
+                var passwordValid = await _userManager.CheckPasswordAsync(user, newPassword);
+                if (passwordValid)
+                    return (false, "La nueva contraseña no puede ser igual a la anterior.", null);
+
+                var token = await _userManager.GeneratePasswordResetTokenAsync(user);
+                var passwordResult = await _userManager.ResetPasswordAsync(user, token, newPassword);
+
+                if (!passwordResult.Succeeded)
+                    return (false, "Error al cambiar la contraseña.", null);
+            }
+
+            // Guardar cambios generales
             var updateResult = await _userManager.UpdateAsync(user);
             if (!updateResult.Succeeded)
-                return (false, string.Join(" ", updateResult.Errors.Select(e => e.Description)));
+                return (false, string.Join(" ", updateResult.Errors.Select(e => e.Description)), null);
 
-            return (true, "Usuario actualizado correctamente.");
+            // Si se especificó una nueva contraseña, resetearla
+            if (!string.IsNullOrEmpty(newPassword))
+            {
+                var token = await _userManager.GeneratePasswordResetTokenAsync(user);
+                var passwordResult = await _userManager.ResetPasswordAsync(user, token, newPassword);
+
+                if (!passwordResult.Succeeded)
+                    return (false, "Error al cambiar la contraseña.", null);
+            }
+
+            return (true, "Usuario actualizado correctamente.", user.ConcurrencyStamp);
         }
+
 
 
 

@@ -101,7 +101,7 @@ namespace SalesInvoice.API.Controllers
         [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Update(string id, [FromBody] UpdateUserDto dto)
         {
-            var result = await _authService.UpdateUserAsync(id, dto.Email, dto.Cedula, dto.ConcurrencyStamp, dto.Role);
+            var result = await _authService.UpdateUserAsync(id, dto.Email, dto.Cedula, dto.ConcurrencyStamp, dto.Role, dto.NewPassword);
 
             return result.Success
                 ? Ok(new { success = true, message = result.Message })
